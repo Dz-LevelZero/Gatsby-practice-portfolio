@@ -26,9 +26,9 @@ module.exports = {
     },
   ],
   siteMetadata: {
-    title: 'Web Warrior',
-    description: 'web dev portfolio',
-    copyright: 'This website is copyright 2021 Web Warrior',
-    contact: 'me@thewebwarrioruk.co.uk',
+    title: 'Sam Tm',
+    description: 'web dev Gatsby portfolio',
+    copyright: 'This website is copyright 2021 Sami Tm',
+    contact: 'My@Email.com',
   },
 }
